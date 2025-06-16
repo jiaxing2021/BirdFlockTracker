@@ -17,3 +17,5 @@ This project implements an algorithm to automatically track a group of birds in 
 ## Usage
 See `main.py` for example usage.
 
+## Results
+![Result](images/result.gif)
