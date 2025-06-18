@@ -14,3 +14,6 @@ See `main.py` for example usage.
 
 ## Results
 ![Result](images/result.gif)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
